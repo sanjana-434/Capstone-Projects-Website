@@ -1,0 +1,21 @@
+.ContactAll {
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+  }
+  
+  .ContactAll h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .ContactAll p {
+    margin: 5px 0;
+  }
+  
+  .ContactAll a {
+    color: blue;
+    text-decoration: none;
+  }
+  
